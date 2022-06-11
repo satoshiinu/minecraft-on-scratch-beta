@@ -1,12 +1,7 @@
 <html>
 	<body>
-		<style>
-			p {
-				font-size: 7;
-			}
-		</style>
-		<p>
+		<big>
 			<a src="https://scratch.mit.edu/projects/590463967/" >play</a>
-		</p>
+		</bug>
 	</body>
 </body>
